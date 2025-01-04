@@ -1,4 +1,6 @@
 Simple Tic-Tac-Toe game in Python
+
+
 ✨ Features
 Two-player functionality: Alternates turns between Player 1 ('X') and Player 2 ('O').
 Dynamic board display: Updates the board after every move for a clear and engaging experience.

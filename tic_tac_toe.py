@@ -75,7 +75,7 @@ def player1(moves):
     else:
         print("Please enter between 1-9")
         player1(moves)
-
+        
 # Function to handle player 2
 def player2(moves):
     pos = int(input("Player 2 - Enter position (1-9): "))
@@ -142,4 +142,6 @@ def play():
 
 # Start the game
 if __name__=="__main__":
+    print("hello")
     play()
+    

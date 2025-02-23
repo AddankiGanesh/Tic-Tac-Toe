@@ -142,6 +142,6 @@ def play():
 
 # Start the game
 if __name__=="__main__":
-    print("hello")
+    
     play()
     
